@@ -9,10 +9,6 @@
     </a>
 </h1>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ahlallay&color=blue" alt="Profile views" />
-</p>
-
 ## 🚀 À propos de moi
 
 Je suis un développeur passionné par le web et le mobile, spécialisé dans la création d'applications interactives et innovantes. Mon engagement envers l'open-source et mon désir constant d'apprentissage me poussent à explorer de nouvelles technologies et à contribuer activement à la communauté du développement.
