@@ -50,7 +50,7 @@ Je suis un développeur passionné par le web et le mobile, spécialisé dans la
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahlallay&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=Ahlallay&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connectons-nous!
