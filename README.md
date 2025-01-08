@@ -49,13 +49,10 @@ Je suis un développeur passionné par le web et le mobile, spécialisé dans la
     <img src="https://github-readme-stats.vercel.app/api?username=Ahlallay&show_icons=true&theme=radical" alt="Mes stats GitHub" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AHLALLAY&locale=fr" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AHLALLAY&locale=fr)](https://git.io/streak-stats)
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahlallay&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🤝 Connectons-nous!
+## 🤝 Autre Profiles!
+> hackerrank
 <div align="center">
     <a href='https://www.hackerrank.com/profile/abderrahman_ah' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png' border='0' alt='Visit my HackerRank profile' />
