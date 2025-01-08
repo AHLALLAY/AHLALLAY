@@ -46,11 +46,11 @@ Je suis un développeur passionné par le web et le mobile, spécialisé dans la
 ## 📊 Mes Statistiques GitHub
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedbenkrarayc&show_icons=true&theme=radical" alt="Mes stats GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MhamedOuhanane&show_icons=true&theme=radical" alt="Mes stats GitHub" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbenkrarayc&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhamedOuhanane&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connectons-nous!
