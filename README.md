@@ -102,11 +102,36 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight)](https://github.com/ahlallay)
+<!-- Stats de base -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay&layout=compact&theme=tokyonight)](https://github.com/ahlallay)
+<!-- Langages les plus utilisés -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ahlallay)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahlallay&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+<!-- Graphique des contributions -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlallay&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/ahlallay)
+
+<!-- Trophées -->
+<img src="https://github-profile-trophy.vercel.app/?username=ahlallay&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
+
+<!-- Statistiques détaillées -->
+<details>
+<summary>📊 Plus de Statistiques</summary>
+
+<!-- Stats Wakatime si configuré -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahlallay&theme=tokyonight&hide_border=true)](https://wakatime.com/@ahlallay)
+
+<!-- Badges de stats -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahlallay&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlallay&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahlallay&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahlallay&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahlallay&theme=tokyonight)
+
+</details>
+
+<!-- Compteur de visiteurs -->
+![](https://komarev.com/ghpvc/?username=ahlallay&color=blue&style=flat-square&label=Visiteurs)
 
 </div>
 
