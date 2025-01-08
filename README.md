@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&height=70&lines=Abderrahmane+Ahlallay;D%C3%A9veloppeur+Web+Full+Stack;Passionn%C3%A9+par+l'innovation" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=F700F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Abderrahmane+Ahlallay;D%C3%A9veloppeur+Web+Full+Stack;Passionn%C3%A9+par+l'innovation" alt="Typing SVG"/>
     </a>
 </h1>
 
@@ -84,17 +84,20 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 - Développement d'interfaces responsive
 - Intégration avec Tailwind CSS
 - JavaScript moderne
+- Optimisation des performances UI/UX
 
 #### 💽 Backend & Base de données
-- Développement PHP
-- Conception et optimisation de bases de données MySQL
-- Architecture API REST
+- Développement PHP orienté objet
+- Gestion et optimisation des bases de données MySQL
+- Sécurisation des données et des transactions
+- Intégration des systèmes tiers
 
-#### 🔧 Outils & Méthodologies
-- Versioning avec Git
-- Collaboration sur GitHub
-- Méthodologies Agiles
-
+#### 🔧 Méthodologies & Outils
+- Versioning avec Git & GitHub Actions
+- Workflow Git (branches, pull requests, code review)
+- Documentation technique
+- Tests et débogage
+- 
 ## 📈 Performance GitHub
 
 <div align="center">
