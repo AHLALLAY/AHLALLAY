@@ -123,22 +123,49 @@ Développeur web et mobile spécialisé dans la création d'applications interac
       <br><small>⭐⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+      <br><small>⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="java" />
+      <br>Java
+      <br><small>⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
       <br><small>⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+      <br><small>⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+      <br><small>⭐⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+      <br><small>⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
       <br><small>⭐⭐⭐⭐⭐</small>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
       <br><small>⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
       <br><small>⭐⭐⭐⭐</small>
     </td>
@@ -153,30 +180,18 @@ Développeur web et mobile spécialisé dans la création d'applications interac
       <br><small>⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-      <br><small>⭐⭐⭐⭐</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-      <br><small>⭐⭐⭐</small>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-      <br><small>⭐</small>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-      <br><small>⭐⭐⭐</small>
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
+      <br><small>⭐⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=xampp" width="48" height="48" alt="XAMPP" />
+      <br>XAMPP
+      <br><small>⭐⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
       <br><small>⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
@@ -184,27 +199,12 @@ Développeur web et mobile spécialisé dans la création d'applications interac
       <br>PostgreSQL
       <br><small>⭐⭐⭐⭐</small>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-      <br><small>⭐⭐⭐⭐</small>
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-      <br><small>⭐⭐⭐⭐</small>
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="java" />
-      <br>Java
-      <br><small>⭐⭐⭐</small>
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-      <br><small>⭐⭐⭐⭐</small>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+      <br><small>⭐</small>
     </td>
   </tr>
 </table>
