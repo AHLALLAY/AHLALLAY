@@ -14,57 +14,72 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 
 ## 💼 Expérience professionnelle
 
-- **Développeur Full Stack** | *Entreprise XYZ* | 2022-Présent
-  - Développement d'applications web responsive utilisant React et Node.js
+- **Développeur Full Stack** | *YouCode* | 2024-Présent
+  - Développement d'applications web responsive.
   - Optimisation des performances et de l'expérience utilisateur
-  - Collaboration avec une équipe agile de 6 développeurs
-
-- **Développeur Frontend** | *Startup ABC* | 2020-2022
-  - Création d'interfaces utilisateur avec React et Tailwind CSS
-  - Implémentation de fonctionnalités interactives JavaScript
-  - Migration d'une application legacy vers une architecture moderne
+  - Collaboration avec une équipe agile de 5 développeurs
 
 ## 🚀 Projets phares
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">TaskFlow - To Do List</h3>
-      <div align="center">
-        <a href="[TaskFlow - To Do List](https://github.com/AHLALLAY/Syst-me-de-Gestion-des-T-ches-To-Do-List.git)" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=E-commerce+Platform" width="300" alt="TaskFlow - To Do List">
-        </a>
-        <p>
-          <a href="https://github.com/ahlallay/ecommerce-platform" target="_blank">
-            <img src="#" alt="View on GitHub">
-          </a>
-          <a href="[https://TaskFlow.com](https://ahlallay.github.io/Syst-me-de-Gestion-des-T-ches-To-Do-List/)" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
-          </a>
-        </p>
-        <p><strong>HTML5,Tailwind CSS, JavaScript</strong> - Plateforme To Do Liste pour gérer les taches quotidien</p>
-      </div>
-    </td>
-  </tr>
- <tr>
-    <td width="50%">
-      <h3 align="center">TaskFlow - To Do List</h3>
-      <div align="center">
-        <a href=[Gestionnaire d\'un cabinet medicale](https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git)" target="_blank">
-          <img src="#" width="300" alt="Géstionnaire d'un cabinet médicale">
-        </a>
-        <p>
-          <a href="https://github.com/ahlallay/ecommerce-platform" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub">
-          </a>
-          <a href="[https://TaskFlow.com](https://ahlallay.github.io/Syst-me-de-Gestion-des-T-ches-To-Do-List/)" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
-          </a>
-        </p>
-        <p><strong>HTML5,Tailwind CSS, JavaScript</strong> - Plateforme To Do Liste pour gérer les taches quotidien</p>
-      </div>
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <h3>TaskFlow - To Do List</h3>
+            <div>
+                <li>lien vers github : <a href="https://github.com/AHLALLAY/Syst-me-de-Gestion-des-T-ches-To-Do-List.git">TaskFlow - To Do List</a></li>
+                <ul>
+                technologie utiliser :
+                    <li>HTML</li>
+                    <li>Tailwind</li>
+                    <li>JavaScript</li>
+                    <li>LocalStorage</li>
+                </ul>
+            </div>
+        </td>
+        <td>
+            <h3>Systeme de Gestion d'un cabinet médicale</h3>
+            <div>
+                <li>lien vers github : <a href="https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git">Gestion d'un cabinet médicale</a></li>
+                <ul>
+                technologie utiliser :
+                    <li>HTML</li>
+                    <li>Tailwind</li>
+                    <li>PHP</li>
+                    <li>MVC</li>
+                    <li>POO</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Lost and Found</h3>
+            <div>
+                <li>lien vers github : <a href="https://github.com/AHLALLAY/Lost-Found.git">Lost&Found</a></li>
+                <ul>
+                technologie utiliser :
+                    <li>HTML</li>
+                    <li>Tailwind</li>
+                    <li>PHP</li>
+                    <li>Laravel</li>
+                </ul>
+            </div>
+        </td>
+        <td>
+            <h3>FUT Chapmions</h3>
+            <div>
+                <li>lien vers github : <a href="https://github.com/AHLALLAY/FUT-Champions-Web-App-Ultimate-Team.git">FUT Champions</a></li>
+                <ul>
+                technologie utiliser :
+                    <li>HTML</li>
+                    <li>Tailwind</li>
+                    <li>JavaScript</li>
+                    <li>LocalStorage</li>
+                    <li>Fetch</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
 </table>
 
 ## 🎓 Certifications
@@ -84,6 +99,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ## 🛠️ Stack Technique
 
 ### Technologies Web
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -94,7 +110,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-      <br><small>⭐⭐⭐</small>
+      <br><small>⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="java" />
@@ -109,29 +125,29 @@ Développeur web et mobile spécialisé dans la création d'applications interac
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
-      <br><small>⭐⭐⭐</small>
+      <br><small>⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>GitHub
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
-      <br><small>⭐⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐⭐</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -141,32 +157,32 @@ Développeur web et mobile spécialisé dans la création d'applications interac
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=xampp" width="48" height="48" alt="XAMPP" />
       <br>XAMPP
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
-      <br><small>⭐⭐⭐⭐</small>
+      <br><small>⭐⭐⭐</small>
     </td>
   </tr>
   <tr>
@@ -181,31 +197,30 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ### Expertise par domaine
 
 #### 🎨 Frontend
+
 - Développement d'interfaces responsive
 - Intégration avec Tailwind CSS
-- JavaScript moderne (ES6+, TypeScript)
+- JavaScript vanilla
 - Optimisation des performances UI/UX
-- Frameworks: React, Vue.js
 
 #### 💽 Backend & Base de données
+
 - Développement PHP orienté objet
-- Node.js et Express
-- Gestion et optimisation des bases de données MySQL/MongoDB
-- API RESTful et GraphQL
+- Gestion et optimisation des bases de données MySQL/PostgreSQL
+- API RESTful
 - Sécurisation des données et des transactions
 
 #### 🔧 Méthodologies & Outils
+
 - Versioning avec Git & GitHub Actions
-- CI/CD et déploiement automatisé
 - Workflow Git (branches, pull requests, code review)
 - Documentation technique
-- Tests unitaires et d'intégration
 
 ## 🌱 Actuellement en apprentissage
-- **TypeScript avancé** - Exploration des types génériques et des design patterns
-- **WebAssembly** - Expérimentation avec Rust et WebAssembly
-- **Architecture microservices** - Implémentation avec Docker et Kubernetes
-- **Intelligence artificielle** - Applications dans le développement web
+
+- **Laravel avancé** - Les design patterns
+- **Reacte** - 
+- **Architecture microservices** - Implémentation avec Docker
 
 ## 📈 Performance GitHub
 
@@ -242,6 +257,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 <!-- Compteur de visiteurs -->
 ![](https://komarev.com/ghpvc/?username=ahlallay&color=blue&style=flat-square&label=Visiteurs)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=votre_nom_utilisateur_wakatime&theme=tokyonight&hide_border=true)](https://wakatime.com/@votre_nom_utilisateur_wakatime)
 </div>
 
 ## 🌟 Profils Additionnels
@@ -250,25 +266,11 @@ Développeur web et mobile spécialisé dans la création d'applications interac
   <a href="https://www.hackerrank.com/profile/abderrahman_ah" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Abderrahmane-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
   </a>
-  <a href="https://stackoverflow.com/users/123456/ahlallay" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Abderrahmane-FE7A16?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Profile">
-  </a>
-  <a href="https://dev.to/ahlallay" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-Abderrahmane-0A0A0A?style=for-the-badge&logo=dev.to" alt="Dev.to Profile">
+  <a href="https://www.linkedin.com/in/ahlallay/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abderrahmane-FE7A16?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Profile">
   </a>
 </div>
 
-## 💬 Témoignages
-
-<blockquote>
-  <p>"Abderrahmane est un développeur exceptionnel avec une grande capacité à résoudre des problèmes complexes. Sa collaboration sur notre projet e-commerce a été déterminante pour son succès."</p>
-  <footer>— Sarah L., <em>Chef de projet, XYZ Solutions</em></footer>
-</blockquote>
-
-<blockquote>
-  <p>"Un talent rare qui combine expertise technique et excellente communication. Son travail est toujours de haute qualité et livré dans les délais."</p>
-  <footer>— Thomas M., <em>CTO, StartupABC</em></footer>
-</blockquote>
 
 ## 🤝 Collaboration & Contact
 
@@ -281,7 +283,7 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahmane_Ahlallay-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahlallay/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahlallay-181717?style=for-the-badge&logo=github)](https://github.com/Ahlallay)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahlallay.com-4285F4?style=for-the-badge&logo=google-chrome)](https://ahlallay.com)
-[![Email](https://img.shields.io/badge/Email-contact@ahlallay.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact@ahlallay.com)
+[![Email](https://img.shields.io/badge/Email-contact@ahlallay.com-D14836?style=for-the-badge&logo=gmail)](mailto:abderrahmanahlalay76@gmail.com)
 
 </div>
 
