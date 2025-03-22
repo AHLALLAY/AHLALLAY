@@ -29,70 +29,39 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">E-commerce Platform</h3>
+      <h3 align="center">TaskFlow - To Do List</h3>
       <div align="center">
-        <a href="https://github.com/ahlallay/ecommerce-platform" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=E-commerce+Platform" width="300" alt="E-commerce Platform">
+        <a href="[TaskFlow - To Do List](https://github.com/AHLALLAY/Syst-me-de-Gestion-des-T-ches-To-Do-List.git)" target="_blank">
+          <img src="https://via.placeholder.com/300x150?text=E-commerce+Platform" width="300" alt="TaskFlow - To Do List">
+        </a>
+        <p>
+          <a href="https://github.com/ahlallay/ecommerce-platform" target="_blank">
+            <img src="#" alt="View on GitHub">
+          </a>
+          <a href="[https://TaskFlow.com](https://ahlallay.github.io/Syst-me-de-Gestion-des-T-ches-To-Do-List/)" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
+          </a>
+        </p>
+        <p><strong>HTML5,Tailwind CSS, JavaScript</strong> - Plateforme To Do Liste pour gérer les taches quotidien</p>
+      </div>
+    </td>
+  </tr>
+ <tr>
+    <td width="50%">
+      <h3 align="center">TaskFlow - To Do List</h3>
+      <div align="center">
+        <a href=[Gestionnaire d\'un cabinet medicale](https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git)" target="_blank">
+          <img src="#" width="300" alt="Géstionnaire d'un cabinet médicale">
         </a>
         <p>
           <a href="https://github.com/ahlallay/ecommerce-platform" target="_blank">
             <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub">
           </a>
-          <a href="https://ecommerce-demo.ahlallay.com" target="_blank">
+          <a href="[https://TaskFlow.com](https://ahlallay.github.io/Syst-me-de-Gestion-des-T-ches-To-Do-List/)" target="_blank">
             <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
           </a>
         </p>
-        <p><strong>React, Node.js, MySQL, Tailwind CSS</strong> - Plateforme e-commerce complète avec système de paiement et gestion des stocks.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Task Management App</h3>
-      <div align="center">
-        <a href="https://github.com/ahlallay/task-manager" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Task+Manager" width="300" alt="Task Manager">
-        </a>
-        <p>
-          <a href="https://github.com/ahlallay/task-manager" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub">
-          </a>
-          <a href="https://task-manager.ahlallay.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
-          </a>
-        </p>
-        <p><strong>Vue.js, Firebase, Express</strong> - Application de gestion de tâches avec notifications en temps réel et collaboration d'équipe.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Portfolio Personnel</h3>
-      <div align="center">
-        <a href="https://ahlallay.com" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Portfolio" width="300" alt="Portfolio">
-        </a>
-        <p>
-          <a href="https://github.com/ahlallay/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub">
-          </a>
-          <a href="https://ahlallay.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live%20Site-success?style=for-the-badge&logo=vercel" alt="Live Demo">
-          </a>
-        </p>
-        <p><strong>React, Three.js, Tailwind CSS</strong> - Portfolio personnel avec animations 3D et présentation interactive des projets.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Contribution Open Source</h3>
-      <div align="center">
-        <a href="https://github.com/popular-framework/popular-framework" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Open+Source" width="300" alt="Open Source">
-        </a>
-        <p>
-          <a href="https://github.com/popular-framework/popular-framework" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p><strong>JavaScript, TypeScript</strong> - Contribution active au framework XYZ avec plus de 10 pull requests acceptées et maintenance de plugins.</p>
+        <p><strong>HTML5,Tailwind CSS, JavaScript</strong> - Plateforme To Do Liste pour gérer les taches quotidien</p>
       </div>
     </td>
   </tr>
@@ -185,6 +154,11 @@ Développeur web et mobile spécialisé dans la création d'applications interac
       <br><small>⭐⭐⭐⭐</small>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+      <br><small>⭐⭐⭐⭐</small>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=xampp" width="48" height="48" alt="XAMPP" />
       <br>XAMPP
       <br><small>⭐⭐⭐⭐</small>
@@ -192,11 +166,6 @@ Développeur web et mobile spécialisé dans la création d'applications interac
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
-      <br><small>⭐⭐⭐⭐</small>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
       <br><small>⭐⭐⭐⭐</small>
     </td>
   </tr>
