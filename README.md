@@ -257,7 +257,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 <!-- Compteur de visiteurs -->
 ![](https://komarev.com/ghpvc/?username=ahlallay&color=blue&style=flat-square&label=Visiteurs)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=votre_nom_utilisateur_wakatime&theme=tokyonight&hide_border=true)](https://wakatime.com/@votre_nom_utilisateur_wakatime)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anonymous User&theme=tokyonight&hide_border=true)](https://wakatime.com/@Anonymous User)
 </div>
 
 ## 🌟 Profils Additionnels
