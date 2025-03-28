@@ -221,8 +221,7 @@ Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahmane_Ahlallay-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahlallay/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahlallay-181717?style=for-the-badge&logo=github)](https://github.com/Ahlallay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahlallay.com-4285F4?style=for-the-badge&logo=google-chrome)](https://ahlallay.com)
-[![Email](https://img.shields.io/badge/Email-contact@ahlallay.com-D14836?style=for-the-badge&logo=gmail)](mailto:abderrahmanahlalay76@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send me an email-D14836?style=for-the-badge&logo=gmail)](mailto:abderrahmanahlalay76@gmail.com)
 
 </div>
 
