@@ -19,69 +19,14 @@ Développeur web et mobile spécialisé dans la création d'applications interac
   - Optimisation des performances et de l'expérience utilisateur
   - Collaboration avec une équipe agile de 5 développeurs
 
-## 🚀 Projets phares
+## 🚀 Projets Phares
 
-<table>
-    <tr>
-        <td>
-            <h3>TaskFlow - To Do List</h3>
-            <div>
-                <li>lien vers github : <a href="https://github.com/AHLALLAY/Syst-me-de-Gestion-des-T-ches-To-Do-List.git">TaskFlow - To Do List</a></li>
-                <ul>
-                technologie utiliser :
-                    <li>HTML</li>
-                    <li>Tailwind</li>
-                    <li>JavaScript</li>
-                    <li>LocalStorage</li>
-                </ul>
-            </div>
-        </td>
-        <td>
-            <h3>Systeme de Gestion d'un cabinet médicale</h3>
-            <div>
-                <li>lien vers github : <a href="https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git">Gestion d'un cabinet médicale</a></li>
-                <ul>
-                technologie utiliser :
-                    <li>HTML</li>
-                    <li>Tailwind</li>
-                    <li>PHP</li>
-                    <li>MVC</li>
-                    <li>POO</li>
-                </ul>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <h3>Lost and Found</h3>
-            <div>
-                <li>lien vers github : <a href="https://github.com/AHLALLAY/Lost-Found.git">Lost&Found</a></li>
-                <ul>
-                technologie utiliser :
-                    <li>HTML</li>
-                    <li>Tailwind</li>
-                    <li>PHP</li>
-                    <li>Laravel</li>
-                </ul>
-            </div>
-        </td>
-        <td>
-            <h3>FUT Chapmions</h3>
-            <div>
-                <li>lien vers github : <a href="https://github.com/AHLALLAY/FUT-Champions-Web-App-Ultimate-Team.git">FUT Champions</a></li>
-                <ul>
-                technologie utiliser :
-                    <li>HTML</li>
-                    <li>Tailwind</li>
-                    <li>JavaScript</li>
-                    <li>LocalStorage</li>
-                    <li>Fetch</li>
-                </ul>
-            </div>
-        </td>
-    </tr>
-</table>
-
+| Projet | Description | Technologies | Liens |
+|:------:|:----------:|:------------:|:-----:|
+| **TaskFlow - To Do List** | Application de gestion de tâches simple et efficace | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/AHLALLAY/Syst-me-de-Gestion-des-T-ches-To-Do-List.git) |
+| **Système de Gestion d'un Cabinet Médical** | Application de gestion pour cabinet médical | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git) |
+| **Lost and Found** | Application de gestion des objets perdus et trouvés | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/AHLALLAY/Lost-Found.git) |
+| **FUT Champions** | Application web pour Ultimate Team | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7
 ## 🎓 Certifications
 
 <div align="center">
