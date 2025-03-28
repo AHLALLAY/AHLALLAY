@@ -85,7 +85,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ## 🎓 Certifications
 
 <div align="center">
-  <a href="[JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/00e082c12a28)" target="_blank">
+  <a href="https://www.hackerrank.com/certificates/iframe/00e082c12a28" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Abderrahmane-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
   </a>
 </div>
