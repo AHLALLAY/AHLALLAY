@@ -243,7 +243,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 <summary>📊 Plus de Statistiques</summary>
 
 <!-- Stats Wakatime si configuré -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahlallay&theme=tokyonight&hide_border=true)](https://wakatime.com/@ahlallay)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahlalay&theme=tokyonight&hide_border=true)](https://wakatime.com/@ahlalay)
 
 <!-- Badges de stats -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahlallay&theme=tokyonight)
