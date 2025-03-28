@@ -85,14 +85,8 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 ## 🎓 Certifications
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Front--End%20Developer-0056D2?style=for-the-badge&logo=facebook" alt="Meta Front-End Developer">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws" alt="AWS Certified Developer">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Google-UX%20Design-4285F4?style=for-the-badge&logo=google" alt="Google UX Design">
+  <a href="[JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/00e082c12a28)" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Abderrahmane-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
   </a>
 </div>
 
