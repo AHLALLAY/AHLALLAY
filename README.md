@@ -27,6 +27,12 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 | **Système de Gestion d'un Cabinet Médical** | Application de gestion pour cabinet médical | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/AHLALLAY/Syst-me-de-Gestion-de-Cabinet-M-dical-en-PHP-MVC.git) |
 | **Lost and Found** | Application de gestion des objets perdus et trouvés | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/AHLALLAY/Lost-Found.git) |
 | **FUT Champions** | Application web pour Ultimate Team | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 🏆 Badges GitHub
+
+[![Pull Shark](https://img.shields.io/badge/dynamic/json?label=GitHub%20Pull%20Shark&query=%24.badges.3.title&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahlallay%2Fachievements&color=6e5494&logo=github)](https://github.com/ahlallay?achievement=pull-shark)
+[![Starstruck](https://img.shields.io/badge/GitHub-Starstruck-yellow?logo=github)](https://github.com/ahlallay?achievement=starstruck)
+
 ## 🎓 Certifications
 
 <div align="center">
@@ -133,115 +139,33 @@ Développeur web et mobile spécialisé dans la création d'applications interac
   </tr>
 </table>
 
-### Expertise par domaine
-
-#### 🎨 Frontend
-
-- Développement d'interfaces responsive
-- Intégration avec Tailwind CSS
-- JavaScript vanilla
-- Optimisation des performances UI/UX
-
-#### 💽 Backend & Base de données
-
-- Développement PHP orienté objet
-- Gestion et optimisation des bases de données MySQL/PostgreSQL
-- API RESTful
-- Sécurisation des données et des transactions
-
-#### 🔧 Méthodologies & Outils
-
-- Versioning avec Git & GitHub Actions
-- Workflow Git (branches, pull requests, code review)
-- Documentation technique
-
-## 🌱 Actuellement en apprentissage
-
-- **Laravel avancé** - Les design patterns
-- **Reacte** - 
-- **Architecture microservices** - Implémentation avec Docker
-
 ## 📈 Performance GitHub
 
 <div align="center">
 
-<!-- Stats de base -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
 
-<!-- Langages les plus utilisés -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ahlallay)
 
-<!-- Graphique des contributions -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlallay&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/ahlallay)
 
-<!-- Trophées -->
 <img src="https://github-profile-trophy.vercel.app/?username=ahlallay&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
 
-<!-- Statistiques détaillées -->
-<details>
-<summary>📊 Plus de Statistiques</summary>
-
-<!-- Stats Wakatime si configuré -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahlalay&theme=tokyonight&hide_border=true)](https://wakatime.com/@ahlalay)
-
-<!-- Badges de stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahlallay&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlallay&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahlallay&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahlallay&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahlallay&theme=tokyonight)
-
-</details>
-
-<!-- Compteur de visiteurs -->
 ![](https://komarev.com/ghpvc/?username=ahlallay&color=blue&style=flat-square&label=Visiteurs)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anonymous User&theme=tokyonight&hide_border=true)](https://wakatime.com/@Anonymous User)
 </div>
 
-## 🌟 Profils Additionnels
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/abderrahman_ah" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Abderrahmane-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
-  </a>
-  <a href="https://www.linkedin.com/in/ahlallay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abderrahmane-FE7A16?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Profile">
-  </a>
-</div>
-
-
-## 🤝 Collaboration & Contact
-
-Je suis toujours enthousiaste à l'idée de collaborer sur des projets innovants. Si vous avez une idée intéressante ou souhaitez discuter de possibles collaborations, n'hésitez pas à me contacter !
-
-### Me trouver ailleurs
+## 🤝 Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahmane_Ahlallay-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahlallay/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahlallay-181717?style=for-the-badge&logo=github)](https://github.com/Ahlallay)
-[![Email](https://img.shields.io/badge/Email-contact@ahlalay.com-D14836?style=for-the-badge&logo=gmail)](mailto:abderrahmanahlalay76@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abderrahmanahlalay76@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:abderrahmanahlalay76@gmail.com)
 
 </div>
-<div>
-  [![Pull Shark](https://img.shields.io/badge/dynamic/json?label=GitHub%20Pull%20Shark&query=%24.badges.3.title&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahlallay%2Fachievements)](https://github.com/ahlallay
-?achievement=pull-shark)
-</div>
+
 <hr>
-
-<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
-  <div style="margin-right: 20px;">
-    <h3>🇫🇷 Version Française</h3>
-    <p>Vous consultez actuellement la version française de mon profil</p>
-  </div>
-  <div>
-    <h3>🇬🇧 English Version</h3>
-    <p><a href="README.en.md">Switch to English version</a></p>
-  </div>
-</div>
-
----
 
 <div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" width="60">
