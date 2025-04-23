@@ -145,7 +145,7 @@ Développeur web et mobile spécialisé dans la création d'applications interac
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlallay&show_icons=true&theme=darck&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ahlallay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay)](https://github.com/ahlallay/github-readme-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlallay&theme=tokyo-night&hide_border=true&custom_title=Graphique%20des%20Contributions)](https://github.com/ahlallay)
 
