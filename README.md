@@ -54,20 +54,19 @@ Développeur Full Stack passionné, actuellement en formation avancée chez **Yo
 
 <div align="center">
 
-### 💻 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" alt="Frontend Icons" />
+### 🚀 Stack Principale
 
-### 🗄️ Back-End
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs" alt="Backend Icons" />
+| Front-End | Back-End | Base de Données |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&theme=dark" alt="Frontend Icons" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,nestjs&theme=dark" alt="Backend Icons" /> | <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres&theme=dark" alt="Database Icons" /> |
 
-### 🛢️ Bases de Données
-<img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" alt="Database Icons" />
+### 🧠 Notions Fondamentales
+> Langages dont je maîtrise la syntaxe de base et la logique algorithmique.
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" alt="Fundamentals Icons" />
 
 ### ⚙️ Outils & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools Icons" />
-
-### ☕ Langages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Languages Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Tools Icons" />
 
 </div>
 
@@ -115,18 +114,18 @@ Développeur Full Stack passionné, actuellement en formation avancée chez **Yo
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
 
 <br>
 
 <a href="https://github.com/ahlallay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlallay&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahlallay&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Langs" />
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ahlallay&theme=tokyo-night&hide_border=true&custom_title=Contributions" alt="Activity Graph" />
 </a>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahlallay&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahlallay&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6" alt="trophies"/>
 
 </div>
 
