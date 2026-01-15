@@ -114,7 +114,7 @@ Développeur Full Stack passionné, actuellement en formation avancée chez **Yo
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oussamabenoujja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/oussamabenoujja)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahlallay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahlallay)
 
 <br>
 
